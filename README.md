@@ -1,7 +1,5 @@
 # Reloj Despertador
 
-![Reloj Despertador](clock_image.png)
-
 Esta es una herramienta simple que configura alarma, hecha unicamente para practicar.
 
 ## Características Destacadas
