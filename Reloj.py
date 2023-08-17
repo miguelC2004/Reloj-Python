@@ -5,7 +5,7 @@ import pygame
 
 # Inicialización de nuestro mezclador de audio y configuración del archivo de alarma wav que queremos reproducir cuando suene la alarma
 pygame.mixer.init(42050, -16, 2, 2048)
-sonido_alarma = pygame.mixer.Sound("MiAlarma.wav")
+sonido_alarma = pygame.mixer.Sound("Alarma.wav")
 # Configuración de nuestros valores globales iniciales
 inicio_impreso = False
 detener_impreso = True
